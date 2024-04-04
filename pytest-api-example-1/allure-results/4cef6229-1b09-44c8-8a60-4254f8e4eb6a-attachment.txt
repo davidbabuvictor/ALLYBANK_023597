@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "snowball",
+    "type": "cat",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "flippy",
+    "type": "fish",
+    "status": "available"
+  },
+  {
+    "id": 300,
+    "name": "string",
+    "type": "cat",
+    "status": "available"
+  }
+]
+Pet Status id 0 available
+Pet Status id 2 available
+Pet Status id 300 available
